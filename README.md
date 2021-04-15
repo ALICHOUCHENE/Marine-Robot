@@ -1,8 +1,10 @@
-### Marine-Robot
+# Marine-Robot
+
 
 ## Thrusters Controller :
 
-# Description :
+
+### Description :
 
 This intelligent Actuator is designed to controll the two thrusters of the robot.
 the board will communicate with the on board computer of the robot via the CAN bus.
@@ -48,7 +50,7 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 
 
-# Manufactoring : 
+# Manufacturing : 
 After finishing the Routing and verifying the pcb. We will make the board at JLC PCB and we chose also the PCB Assembly service.
 Here is the BOM and posistion file needed to order from JLC PCB :
 
