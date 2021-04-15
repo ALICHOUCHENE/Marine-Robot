@@ -38,7 +38,6 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 
 
-
 **The PCB layout of the board :**
 
 
@@ -165,6 +164,11 @@ Here is the BOM and posistion file needed to order from JLC PCB :
 | U7         | EL817         | SMDIP-4_W7.62mm                 | 110.49  | -141.478 | 0        | top   |
 | Y1         | 8MHz          | Crystal_SMD_0603-2Pin_6.0x3.5mm | 95.504  | -121.412 | 0        | top   |
 
+**JLC PCB Ordering :**
+After uploading the Gerber file, the BOM and the position file JLC website will generate the 3D view of the board:
+
+
+![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/Assembly/JLC%20PCB.PNG)
 
 
 # Downloads
