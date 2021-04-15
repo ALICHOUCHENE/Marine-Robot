@@ -23,7 +23,7 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 - PWM frequency up to 20 kHz.
 
-**Here are the schematic of the board :**
+**The schematic of the board :**
 
 
 
@@ -34,7 +34,7 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 
 
-**Here are the PCB layout of the board :**
+**The PCB layout of the board :**
 
 
 
