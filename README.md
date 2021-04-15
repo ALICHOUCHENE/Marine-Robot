@@ -45,6 +45,21 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 ![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/PCB/PCB.PNG?raw=true)
 
+** Board View :**
+
+
+![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/PCB/3D%20view2.png)
+
+
+
+
+
+![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/PCB/3D%20view3.png)
+
+
+
+
+
 
 
 
