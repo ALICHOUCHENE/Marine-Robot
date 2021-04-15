@@ -23,5 +23,13 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 - PWM frequency up to 20 kHz.
 
-**Here are the schematic and the board:**
+**Here are the schematic of the board :**
+
+
+![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/schematic/Capture.PNG?raw=true)
+
+
+**Here are the PCB layout of the board :**
+
+
 ![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/schematic/Capture.PNG?raw=true)
