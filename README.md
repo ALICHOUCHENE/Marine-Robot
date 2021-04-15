@@ -26,10 +26,25 @@ the board will communicate with the on board computer of the robot via the CAN b
 **Here are the schematic of the board :**
 
 
-![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/schematic/Capture.PNG?raw=true)
+
+
+![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/schematic/schematics.PNG?raw=true)
+
+
+
 
 
 **Here are the PCB layout of the board :**
 
 
-![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/schematic/Capture.PNG?raw=true)
+
+
+
+![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/PCB/PCB.PNG?raw=true)
+
+
+
+
+
+
+
