@@ -1,6 +1,8 @@
-# Marine-Robot
+### Marine-Robot
 
-# Thrusters Controller Description :
+## Thrusters Controller :
+
+# Description :
 
 This intelligent Actuator is designed to controll the two thrusters of the robot.
 the board will communicate with the on board computer of the robot via the CAN bus.
@@ -108,7 +110,7 @@ Here is the BOM and posistion file needed to order from JLC PCB :
 |         Y1  | 8MHz          | Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm                  | C128364   |
 
 
-**Position file :*
+**Position file :**
 
 | Designator | Value         | Footprint                       | Mid X   | Mid Y    | Rotation | Layer |
 |------------|---------------|---------------------------------|---------|----------|----------|-------|
@@ -160,5 +162,17 @@ Here is the BOM and posistion file needed to order from JLC PCB :
 | U6         | EL817         | SMDIP-4_W7.62mm                 | 110.998 | -125.222 | 0        | top   |
 | U7         | EL817         | SMDIP-4_W7.62mm                 | 110.49  | -141.478 | 0        | top   |
 | Y1         | 8MHz          | Crystal_SMD_0603-2Pin_6.0x3.5mm | 95.504  | -121.412 | 0        | top   |
+
+
+
+# Downloads
+
+* [Board schematics](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/schematic/Actuator.pdf)
+
+* [BOM](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/Assembly/BOM.xlsx)
+
+* [Position file](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/Assembly/Actuator-all-pos.xlsx)
+
+* [Gerber File](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/Gerber%20file/GERBER.rar)
 
 
