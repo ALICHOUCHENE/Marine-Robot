@@ -23,7 +23,7 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 - Maximum Motor Current: 10A continuous, 30 A peak.
 
-- Buck regulator to produce 3.3V/1A output with reverse voltage protection.
+- linear regulator to produce 3.3V/1A output with reverse voltage protection.
 
 - LEDs for motor output state.
 
@@ -45,7 +45,7 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 ![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/PCB/PCB.PNG?raw=true)
 
-** Board View :**
+**Board View :**
 
 
 ![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/PCB/3D%20view2.png)
@@ -65,6 +65,8 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 
 # Manufacturing : 
+
+
 After finishing the Routing and verifying the pcb. We will make the board at JLC PCB and we chose also the PCB Assembly service.
 Here is the BOM and posistion file needed to order from JLC PCB :
 
