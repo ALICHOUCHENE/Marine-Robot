@@ -17,7 +17,7 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 - SN65HVD230 CAN bus controller Operating with a single 3.3 V Supply and Compatible With ISO 11898-2 Standard.
 
-- Serial wire debuger as a programming interface and uart as serial communication interface.
+- Serial wire debuger as a programming interface and USART2 as serial communication interface.
 
 - Operating Voltage up to 24V.
 
