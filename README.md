@@ -34,7 +34,7 @@ the board will communicate with the on board computer of the robot via the CAN b
 
 
 
-![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/schematic/schematics.PNG?raw=true)
+![alt text](https://github.com/ALICHOUCHENE/Marine-Robot/blob/main/Thrusters%20Controller/schematic/schematic.PNG)
 
 
 
